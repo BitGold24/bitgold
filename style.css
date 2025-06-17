@@ -1,0 +1,25 @@
+
+body {
+    background-color: #0b0b0b;
+    color: gold;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+.logo {
+    width: 150px;
+    margin-top: 20px;
+}
+header {
+    padding: 50px 20px;
+}
+section {
+    margin: 40px 20px;
+}
+footer {
+    margin: 50px 20px;
+}
+a {
+    color: #FFD700;
+}
